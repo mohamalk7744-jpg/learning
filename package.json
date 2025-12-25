@@ -82,6 +82,9 @@
     "tsx": "^4.19.1",
     "typescript": "~5.9.2",
     "vitest": "^2.1.4"
+    "drizzle-orm": "^0.44.5",
+    "esbuild": "^0.25.0",
+    "expo": "~54.0.29",
   },
   "packageManager": "pnpm@9.12.0"
 }
